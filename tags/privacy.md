@@ -1,9 +1,10 @@
 # privacy
 
-*18 notes*
+*20 notes*
 
 - [[notes/github/agenticSeek|AgenticSeek]]
 - [[notes/github/BrowserOS|BrowserOS]]
+- [[notes/github/Datakit|Datakit]]
 - [[notes/github/epicenter|Epicenter]]
 - [[notes/github/holmes-go|Holmes (holmes-go)]]
 - [[notes/articles/implementing-local-first-agentic-ai-a-practical-guide|Implementing local-first agentic AI: A practical guide]]
@@ -14,6 +15,7 @@
 - [[notes/github/NativeMindExtension|NativeMind Extension]]
 - [[notes/github/pii-masker|PII Masker]]
 - [[notes/articles/so-you-wanna-build-a-local-rag|So You Wanna Build a Local RAG?]]
+- [[notes/github/tichy|tichy]]
 - [[notes/github/timelinize|Timelinize]]
 - [[notes/github/vectorless|Vectorless]]
 - [[notes/github/veil-go|Veil-Go - Sensitive Data Firewall for LLMs]]

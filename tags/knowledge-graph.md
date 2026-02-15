@@ -1,6 +1,6 @@
 # knowledge-graph
 
-*13 notes*
+*15 notes*
 
 - [[notes/github/Agent-MCP|Agent-MCP]]
 - [[notes/github/fast-graphrag|circlemind-ai/fast-graphrag]]
@@ -10,8 +10,10 @@
 - [[notes/github/graphrag|GraphRAG]]
 - [[notes/github/LightRAG|LightRAG: Simple and Fast Retrieval-Augmented Generation]]
 - [[notes/github/memori|Memori]]
+- [[notes/github/Mimir|Mimir]]
 - [[notes/github/pipeshub-ai|PipesHub - Workplace AI Platform]]
 - [[notes/github/potpie|Potpie]]
 - [[notes/github/R2R|R2R - Production-Ready AI Retrieval System]]
 - [[notes/github/rowboat|Rowboat]]
+- [[notes/articles/transactional-graph-enhanced-llm-definitive-guide-read-write-chatbots-relational-data|The Transactional Graph-Enhanced LLM: A Definitive Guide to Read/Write Chatbots for Relational Data]]
 - [[notes/github/VeritasGraph|VeritasGraph - All-in-One GraphRAG Framework]]

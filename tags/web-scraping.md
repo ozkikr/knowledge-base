@@ -1,6 +1,6 @@
 # web-scraping
 
-*8 notes*
+*9 notes*
 
 - [[notes/github/browser-use|Browser Use]]
 - [[notes/github/clipper.js|Clipper.js]]
@@ -10,3 +10,4 @@
 - [[notes/github/shot-scraper|shot-scraper]]
 - [[notes/github/skyvern|Skyvern - Automate Browser Workflows with AI]]
 - [[notes/github/steel-browser|Steel Browser - Open Source Browser API for AI Agents]]
+- [[notes/articles/trafilatura-python-usage|With Python — Trafilatura]]

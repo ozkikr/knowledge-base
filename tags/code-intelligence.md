@@ -1,7 +1,8 @@
 # code-intelligence
 
-*4 notes*
+*5 notes*
 
+- [[notes/github/Auditor|Auditor]]
 - [[notes/github/codanna|Codanna]]
 - [[notes/github/CodeMCP|CodeMCP (CKB)]]
 - [[notes/github/GitNexus|GitNexus]]

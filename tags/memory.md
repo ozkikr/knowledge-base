@@ -1,13 +1,16 @@
 # memory
 
-*18 notes*
+*21 notes*
 
 - [[notes/articles/agents-2.0-deep-agents|Agents 2.0: From Shallow Loops to Deep Agents]]
 - [[notes/github/agno|Agno]]
 - [[notes/github/cipher|Byterover Cipher]]
 - [[notes/github/ChatIndex|ChatIndex - Tree Indexing for Long Conversations]]
+- [[notes/github/claude-cognitive|claude-cognitive]]
 - [[notes/github/claude-mem|claude-mem]]
+- [[notes/github/codex-kaioken|codex-kaioken]]
 - [[notes/articles/context-engineering-for-agents|Context Engineering for Agents]]
+- [[notes/articles/context-engineering-for-personalization-state-management-with-long-term-memory-notes-using-openai-agents-sdk|Context Engineering for Personalization - State Management with Long-Term Memory Notes using OpenAI Agents SDK]]
 - [[notes/github/Continuous-Claude-v2|Continuous Claude]]
 - [[notes/github/graphiti|Graphiti]]
 - [[notes/github/HGMem|HGMem: Hypergraph-based Memory for Multi-step RAG]]

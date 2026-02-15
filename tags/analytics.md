@@ -1,13 +1,15 @@
 # analytics
 
-*10 notes*
+*12 notes*
 
 - [[notes/github/bagofwords|Bag of Words]]
 - [[notes/github/BemiDB|BemiDB - Open-Source Snowflake & Fivetran Alternative]]
 - [[notes/github/claude-code-history-viewer|Claude Code History Viewer]]
 - [[notes/articles/agentic-data-modeling|Data Modeling for the Agentic Era: Semantics, Speed, and Stewardship]]
+- [[notes/github/data-ai-tickets-template|data-ai-tickets-template]]
 - [[notes/articles/inside-openais-in-house-data-agent|Inside OpenAI’s in-house data agent]]
 - [[notes/github/jetski|Jetski (HyprMCP)]]
+- [[notes/articles/lessons-learned-from-scaling-data-scientists-with-ai|Lessons learned from scaling data scientists with AI]]
 - [[notes/github/malloy|Malloy]]
 - [[notes/github/sirius|Sirius - GPU-Native SQL Engine]]
 - [[notes/articles/why-analytics-agents-break-differently|Why Analytics Agents Break Differently]]

@@ -1,5 +1,6 @@
 # terminal-tools
 
-*1 notes*
+*2 notes*
 
 - [[notes/github/jiq|jiq]]
+- [[notes/github/sqlit|sqlit]]

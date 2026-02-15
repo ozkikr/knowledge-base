@@ -1,9 +1,10 @@
 # wasm
 
-*9 notes*
+*10 notes*
 
 - [[notes/github/amla-sandbox|amla-sandbox]]
 - [[notes/github/apptron|Apptron]]
+- [[notes/github/ghostty-web|ghostty-web]]
 - [[notes/github/GitNexus|GitNexus]]
 - [[notes/articles/pglite|PGlite - Embeddable Postgres]]
 - [[notes/github/preswald|Preswald]]

@@ -1,6 +1,5 @@
-# llama-cpp
+# llama.cpp
 
-*2 notes*
+*1 notes*
 
-- [[notes/github/gollama.cpp|gollama.cpp]]
-- [[notes/github/search|kelindar/search]]
+- [[notes/github/yzma|yzma]]

@@ -1,6 +1,6 @@
 # observability
 
-*19 notes*
+*22 notes*
 
 - [[notes/articles/go-error-handling|A Practical Guide to Error Handling in Go]]
 - [[notes/github/agenta|Agenta]]
@@ -10,6 +10,7 @@
 - [[notes/github/agentops|AgentOps]]
 - [[notes/github/agtrace|agtrace]]
 - [[notes/github/ai-observer|AI Observer]]
+- [[notes/github/axonhub|axonhub]]
 - [[notes/github/bagofwords|Bag of Words]]
 - [[notes/articles/claude-code-monitoring-with-opentelemetry|Bringing Observability to Claude Code: OpenTelemetry in Action]]
 - [[notes/github/context-viewer|Context Viewer]]
@@ -19,5 +20,7 @@
 - [[notes/github/langwatch|LangWatch]]
 - [[notes/github/opinionated-server|opinionated-server]]
 - [[notes/github/otelconnect-go|otelconnect-go]]
+- [[notes/github/pgFirstAid|pgFirstAid]]
 - [[notes/github/plano|Plano]]
+- [[notes/articles/rag-evaluation-quickstart|RAG Evaluation Quickstart]]
 - [[notes/github/traceroot|TraceRoot]]

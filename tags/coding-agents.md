@@ -1,6 +1,6 @@
 # coding-agents
 
-*32 notes*
+*35 notes*
 
 - [[notes/articles/guide-to-claude-code-2-and-coding-agents|A Guide to Claude Code 2.0 and Getting Better at Using Coding Agents]]
 - [[notes/github/advanced-context-engineering-for-coding-agents|Advanced Context Engineering for Coding Agents]]
@@ -15,6 +15,7 @@
 - [[notes/github/ccmanager|CCManager]]
 - [[notes/github/codex-acp|Codex ACP]]
 - [[notes/articles/coding-agents-and-complexity-budgets|Coding Agents & Complexity Budgets]]
+- [[notes/articles/common-use-cases-factory-cli|Common Use Cases]]
 - [[notes/articles/docker-sandboxes-coding-agent-safety|Docker Sandboxes: A New Approach for Coding Agent Safety]]
 - [[notes/articles/giving-agentic-coding-tools-access-to-xcode|Giving External Agentic Coding Tools Access to Xcode]]
 - [[notes/github/hapi|hapi]]
@@ -24,6 +25,7 @@
 - [[notes/articles/one-agent-isnt-enough|One Agent Isn't Enough]]
 - [[notes/articles/open-coding-agents-sera|Open Coding Agents: Fast, Accessible Coding Agents (Ai2 SERA)]]
 - [[notes/articles/porting-justhtml-python-to-javascript|Porting JustHTML from Python to JavaScript with Codex CLI and GPT-5.2]]
+- [[notes/github/quint-code|quint-code]]
 - [[notes/articles/shipping-at-inference-speed|Shipping at Inference Speed]]
 - [[notes/github/superpowers|Superpowers]]
 - [[notes/articles/superpowers-how-im-using-coding-agents-october-2025|Superpowers: How I'm Using Coding Agents in October 2025]]
@@ -32,5 +34,6 @@
 - [[notes/articles/the-future-of-coding-agents|The Future of Coding Agents]]
 - [[notes/github/universal-skills|Universal Skills]]
 - [[notes/github/vibe-kanban|Vibe Kanban]]
+- [[notes/articles/huggingface-hf-skills-training|We Got Claude to Fine-Tune an Open Source LLM]]
 - [[notes/articles/where-good-ideas-come-from-for-coding-agents|Where Good Ideas Come From (for Coding Agents)]]
 - [[notes/articles/why-we-built-our-background-agent|Why We Built Our Background Agent (Inspect)]]

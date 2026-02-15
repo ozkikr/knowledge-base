@@ -1,6 +1,6 @@
 # ai-coding
 
-*29 notes*
+*32 notes*
 
 - [[notes/github/Agentica|Agentica]]
 - [[notes/github/agor|Agor]]
@@ -17,6 +17,7 @@
 - [[notes/github/FleetCode|FleetCode]]
 - [[notes/github/humanlayer|HumanLayer (CodeLayer)]]
 - [[notes/articles/agents-md|Improve Your AI Code Output with AGENTS.md (+ Best Tips)]]
+- [[notes/github/interface|interface]]
 - [[notes/github/learnchain|LearnChain - Learn from AI Coding Sessions]]
 - [[notes/articles/letta-code-memory-first-coding-agent|Letta Code: A Memory-First Coding Agent]]
 - [[notes/github/manta|Manta IDE]]
@@ -24,9 +25,11 @@
 - [[notes/articles/opencode-models|OpenCode - Models Documentation]]
 - [[notes/articles/optimizing-repos-for-ai|Optimizing Repos for AI]]
 - [[notes/github/quests|Quests]]
+- [[notes/github/react-grab|react-grab]]
 - [[notes/articles/shipping-at-inference-speed|Shipping at Inference Speed]]
 - [[notes/github/spec-kit|Spec Kit]]
 - [[notes/articles/ai-unit-of-work|The Quality of AI-Assisted Software Depends on Unit of Work Management]]
+- [[notes/articles/how-i-ai-openai-codex-power-users|This week on How I AI: OpenAI product lead on getting the most out of Codex]]
 - [[notes/github/uzi|Uzi]]
 - [[notes/github/vibecommander|Vibe Commander - Terminal IVE for AI Coding Assistants]]
 - [[notes/github/vibe-log-cli|vibe-log-cli]]

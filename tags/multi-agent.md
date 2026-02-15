@@ -1,6 +1,6 @@
 # multi-agent
 
-*52 notes*
+*61 notes*
 
 - [[notes/github/acpone|ACPone - Multi-Agent ChatBot]]
 - [[notes/github/agent-message-queue|Agent Message Queue (AMQ)]]
@@ -20,10 +20,15 @@
 - [[notes/github/claude-flow|Claude Flow (Ruflo v3)]]
 - [[notes/github/claude-ipc-mcp|Claude IPC MCP]]
 - [[notes/github/claude-squad|Claude Squad]]
+- [[notes/github/claude-code-sub-agents|claude-code-sub-agents]]
 - [[notes/github/CodeMachine-CLI|CodeMachine CLI]]
+- [[notes/github/codex-kaioken|codex-kaioken]]
+- [[notes/github/codex-weave|codex-weave]]
 - [[notes/github/conduit|Conduit]]
+- [[notes/github/construct|construct]]
 - [[notes/articles/context-engineering-part-2|Context Engineering for AI Agents: Part 2]]
 - [[notes/github/crewAI|CrewAI]]
+- [[notes/github/DeepCode|DeepCode]]
 - [[notes/github/gastown|Gas Town - Multi-Agent Workspace Manager]]
 - [[notes/github/Hephaestus|Hephaestus: Semi-Structured Agentic Framework]]
 - [[notes/articles/how-anthropic-built-a-multi-agent-research-system|How Anthropic Built a Multi-Agent Research System]]
@@ -35,13 +40,17 @@
 - [[notes/articles/lessons-building-ai-data-analyst|Lessons on Building an AI Data Analyst]]
 - [[notes/github/maestro|Maestro]]
 - [[notes/github/mcp_agent_mail|MCP Agent Mail]]
+- [[notes/github/mcpc|mcpc]]
 - [[notes/github/mitto|mitto]]
+- [[notes/github/MobileBuilder_pub|MobileBuilder_pub]]
 - [[notes/github/multi-agent-postgres-data-analytics|Multi-Agent Postgres Data Analytics]]
 - [[notes/github/multi-agent-squad|Multi-Agent Squad]]
+- [[notes/github/myclaude|myclaude]]
 - [[notes/github/open-agent|Open-Agent]]
 - [[notes/github/openagents|OpenAgents - AI Agent Networks for Open Collaboration]]
 - [[notes/github/openai-agents-python|OpenAI Agents SDK]]
 - [[notes/github/multi-agent-coding-system|Orchestrator: Multi-Agent Coding System]]
+- [[notes/github/pied-piper|pied-piper]]
 - [[notes/github/Prismer|Prismer.AI]]
 - [[notes/github/quoracle|Quoracle]]
 - [[notes/github/quorum-cli|Quorum CLI]]

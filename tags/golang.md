@@ -1,7 +1,8 @@
 # golang
 
-*20 notes*
+*24 notes*
 
+- [[notes/github/agentic|agentic]]
 - [[notes/github/clai|clai - Command Line Artificial Intelligence]]
 - [[notes/github/codecontext|CodeContext]]
 - [[notes/github/eino|Eino]]
@@ -17,8 +18,11 @@
 - [[notes/github/goscript|goscript]]
 - [[notes/github/guts|Guts (Go Unto TypeScript)]]
 - [[notes/github/go-plugin|hashicorp/go-plugin]]
+- [[notes/github/hector|hector]]
 - [[notes/github/html-to-markdown|html-to-markdown]]
 - [[notes/github/mcphost|MCPHost]]
 - [[notes/github/options-gen|options-gen - Codegen for Functional Options in Go]]
+- [[notes/github/raggo|Raggo]]
 - [[notes/github/sqlite|riyaz-ali/sqlite]]
 - [[notes/articles/running-go-tools-in-browser|Running Go Tools in a Browser]]
+- [[notes/github/yzma|yzma]]

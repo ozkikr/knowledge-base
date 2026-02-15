@@ -1,5 +1,6 @@
 # human-in-the-loop
 
-*1 notes*
+*2 notes*
 
 - [[notes/github/CopilotKit|CopilotKit]]
+- [[notes/github/pied-piper|pied-piper]]

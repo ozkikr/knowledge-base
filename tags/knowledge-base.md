@@ -1,7 +1,8 @@
 # knowledge-base
 
-*4 notes*
+*5 notes*
 
+- [[notes/github/akyn-sdk|akyn-sdk]]
 - [[notes/github/autoflow|AutoFlow]]
 - [[notes/github/retain|Retain]]
 - [[notes/github/SurfSense|SurfSense - OSS Alternative to NotebookLM, Perplexity, and Glean]]

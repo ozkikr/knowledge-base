@@ -1,8 +1,9 @@
 # kubernetes
 
-*9 notes*
+*10 notes*
 
 - [[notes/github/agentfield|AgentField - Kubernetes for AI Agents]]
+- [[notes/github/clopus-watcher|clopus-watcher]]
 - [[notes/github/envbuilder|Envbuilder]]
 - [[notes/github/kagent|kagent]]
 - [[notes/github/kat|kat - Kubernetes Manifest TUI]]

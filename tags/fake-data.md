@@ -1,5 +1,6 @@
 # fake-data
 
-*1 notes*
+*2 notes*
 
+- [[notes/github/copycat|Copycat]]
 - [[notes/github/faker|Faker (Ruby)]]

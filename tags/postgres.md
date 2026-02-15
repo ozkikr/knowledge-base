@@ -1,6 +1,6 @@
 # postgres
 
-*10 notes*
+*11 notes*
 
 - [[notes/github/absurd|Absurd]]
 - [[notes/github/BemiDB|BemiDB - Open-Source Snowflake & Fivetran Alternative]]
@@ -11,4 +11,5 @@
 - [[notes/github/pgvector|pgvector - Vector Similarity Search for Postgres]]
 - [[notes/github/pgvectorscale|pgvectorscale]]
 - [[notes/github/rainfrog|Rainfrog]]
+- [[notes/github/snapshot|Snapshot]]
 - [[notes/github/squawk|Squawk]]

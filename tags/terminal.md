@@ -1,6 +1,6 @@
 # terminal
 
-*49 notes*
+*51 notes*
 
 - [[notes/github/agent-deck|Agent Deck - Terminal Session Manager for AI Coding Agents]]
 - [[notes/github/agent-of-empires|Agent of Empires (AoE)]]
@@ -12,6 +12,7 @@
 - [[notes/github/chatbang|Chatbang]]
 - [[notes/github/chess-tui|chess-tui — Play Chess from Your Terminal]]
 - [[notes/github/claude-squad|Claude Squad]]
+- [[notes/github/claude-code|claude-code]]
 - [[notes/github/codai|Codai]]
 - [[notes/github/crush|Crush]]
 - [[notes/github/dawn|Dawn]]
@@ -39,6 +40,7 @@
 - [[notes/github/resterm|Resterm — Terminal API Client for HTTP/GraphQL/gRPC]]
 - [[notes/github/rusticon|Rusticon]]
 - [[notes/github/superset|Superset]]
+- [[notes/github/TabzChrome|TabzChrome]]
 - [[notes/github/television|Television (tv)]]
 - [[notes/github/term-cli|term-cli]]
 - [[notes/github/term.everything|term.everything]]

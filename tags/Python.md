@@ -1,6 +1,6 @@
 # python
 
-*37 notes*
+*47 notes*
 
 - [[notes/github/agentops|AgentOps]]
 - [[notes/github/agno|Agno]]
@@ -17,6 +17,7 @@
 - [[notes/github/fast-agent|fast-agent]]
 - [[notes/github/adk-python|Google Agent Development Kit (ADK) - Python]]
 - [[notes/github/indexify|Indexify]]
+- [[notes/articles/lotus-installation|Installation — LOTUS 1.0.1 documentation]]
 - [[notes/github/instructor|Instructor]]
 - [[notes/articles/justified|Justified - Why "just" Is a Great Task Runner]]
 - [[notes/github/langextract|LangExtract]]
@@ -25,17 +26,26 @@
 - [[notes/github/llama_index|LlamaIndex]]
 - [[notes/github/mcp-agent|MCP Agent]]
 - [[notes/articles/meet-agex|Meet Agex]]
+- [[notes/github/monorepo|Monorepo]]
 - [[notes/github/muscle-mem|Muscle Memory]]
 - [[notes/github/npcpy|npcpy]]
 - [[notes/github/openai-agents-python|OpenAI Agents SDK]]
+- [[notes/github/pandas|pandas]]
 - [[notes/github/pathway|Pathway]]
 - [[notes/github/poethepoet|Poe the Poet]]
 - [[notes/github/pointblank|pointblank]]
 - [[notes/github/preswald|Preswald]]
+- [[notes/github/ProjectAtlas|ProjectAtlas]]
 - [[notes/github/pyrefly|Pyrefly - Fast Type Checker and Language Server for Python]]
+- [[notes/github/python-rope-refactor|python-rope-refactor]]
+- [[notes/articles/youtu-agent-quickstart|QuickStart - Youtu-Agent]]
+- [[notes/github/seer-skill|Seer Skill]]
 - [[notes/github/sketch|Sketch]]
+- [[notes/github/Skill_Seekers|Skill_Seekers]]
 - [[notes/github/smolagents|smolagents]]
 - [[notes/github/sdk-python|Temporal Python SDK]]
 - [[notes/articles/chdb-journey-to-zero-copy|The Journey to Zero-Copy: How chDB Became the Fastest SQL Engine on Pandas DataFrame]]
 - [[notes/articles/ty-extremely-fast-python-type-checker|ty: An Extremely Fast Python Type Checker and Language Server]]
 - [[notes/articles/webassembly-as-a-python-extension-platform|WebAssembly as a Python Extension Platform]]
+- [[notes/articles/trafilatura-python-usage|With Python — Trafilatura]]
+- [[notes/github/wxpath|wxpath]]

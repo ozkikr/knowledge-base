@@ -1,6 +1,6 @@
 # self-hosted
 
-*25 notes*
+*29 notes*
 
 - [[notes/github/claude-relay-service|Claude Relay Service]]
 - [[notes/github/claudex|Claudex]]
@@ -12,13 +12,16 @@
 - [[notes/github/harbor|Harbor]]
 - [[notes/github/helix|Helix - Private GenAI Stack for AI Agents]]
 - [[notes/github/homarr|Homarr]]
+- [[notes/github/Knowledge-Base-Self-Hosting-Kit|Knowledge-Base-Self-Hosting-Kit]]
 - [[notes/github/LibreChat|LibreChat]]
 - [[notes/github/llamafarm|LlamaFarm]]
+- [[notes/github/Lynkr|Lynkr]]
 - [[notes/articles/miniflux|Miniflux - Minimalist and Opinionated Feed Reader]]
 - [[notes/github/nao|nao]]
 - [[notes/github/open-webui|Open WebUI]]
 - [[notes/github/paperless-ngx|Paperless-ngx]]
 - [[notes/github/picobot|Picobot]]
+- [[notes/github/proxify|Proxify]]
 - [[notes/github/simpledms|SimpleDMS - Document Management for Small Businesses]]
 - [[notes/github/skald|Skald - Open Source Production RAG]]
 - [[notes/articles/so-you-wanna-build-a-local-rag|So You Wanna Build a Local RAG?]]
@@ -27,3 +30,4 @@
 - [[notes/github/timelinize|Timelinize]]
 - [[notes/github/uncloud|Uncloud]]
 - [[notes/github/waha|WAHA - WhatsApp HTTP API]]
+- [[notes/github/yepanywhere|yepanywhere]]

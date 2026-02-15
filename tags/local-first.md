@@ -1,8 +1,9 @@
 # local-first
 
-*12 notes*
+*14 notes*
 
 - [[notes/github/apptron|Apptron]]
+- [[notes/github/clawdbot|clawdbot]]
 - [[notes/github/surf|Deta Surf]]
 - [[notes/github/dyad|Dyad]]
 - [[notes/github/electric|Electric SQL]]
@@ -11,6 +12,7 @@
 - [[notes/github/nanocoder|Nanocoder - Local-First CLI Coding Agent]]
 - [[notes/github/openmemory|OpenMemory]]
 - [[notes/articles/openmemory-overview|OpenMemory MCP Server]]
+- [[notes/github/PicoCode|PicoCode]]
 - [[notes/github/repere|repere]]
 - [[notes/github/rowboat|Rowboat]]
 - [[notes/github/terminaI|TerminAI]]

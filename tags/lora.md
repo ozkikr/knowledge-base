@@ -1,6 +1,7 @@
 # lora
 
-*2 notes*
+*3 notes*
 
 - [[notes/github/mlx-lora-finetune-template|MLX LoRA Fine-tuning Engine]]
 - [[notes/articles/teaching-an-llm-a-niche-diagraming-language|Teaching an LLM a Niche Diagraming Language]]
+- [[notes/github/unsloth-mlx|unsloth-mlx]]

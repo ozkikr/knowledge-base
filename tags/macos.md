@@ -1,11 +1,13 @@
 # macos
 
-*29 notes*
+*33 notes*
 
 - [[notes/github/agent-sessions|Agent Sessions]]
 - [[notes/github/ai-notify|ai-notify]]
 - [[notes/github/aizen|Aizen]]
 - [[notes/github/bonsplit|bonsplit]]
+- [[notes/articles/bonsplit-native-macos-tab-bar-with-split-panes|Bonsplit - Native macOS Tab Bar with Split Panes]]
+- [[notes/github/claude-usage-tool|claude-usage-tool]]
 - [[notes/github/coderunner|CodeRunner]]
 - [[notes/github/codmate|CodMate]]
 - [[notes/github/coreml-cli|coreml-cli]]
@@ -17,9 +19,11 @@
 - [[notes/github/hyprnote|Hyprnote (Char)]]
 - [[notes/github/imessage-mcp|iMessage MCP]]
 - [[notes/articles/making-macos-bearable|Making macOS Bearable]]
+- [[notes/github/Nano-Banana-Helper|Nano-Banana-Helper]]
 - [[notes/github/osaurus|Osaurus - AI Edge Infrastructure for macOS]]
 - [[notes/github/Peekaboo|Peekaboo]]
 - [[notes/github/posturr|Posturr]]
+- [[notes/github/quotio|quotio]]
 - [[notes/github/Remotastic|Remotastic]]
 - [[notes/github/retain|Retain]]
 - [[notes/github/super-voice-assistant|Super Voice Assistant]]

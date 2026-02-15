@@ -1,9 +1,10 @@
 # code-review
 
-*13 notes*
+*15 notes*
 
 - [[notes/github/async-server|Async Server]]
 - [[notes/github/claudiomiro|Claudiomiro]]
+- [[notes/articles/common-use-cases-factory-cli|Common Use Cases]]
 - [[notes/github/difi|difi]]
 - [[notes/articles/in-praise-of-the-stacked-pull-request|In praise of the stacked pull request]]
 - [[notes/github/llmgit|llmgit - AI-Enhanced Git Tool]]
@@ -15,3 +16,4 @@
 - [[notes/articles/stacked-diffs-with-rebase-onto|Stacked Diffs with `git rebase --onto`]]
 - [[notes/github/superego|Superego]]
 - [[notes/github/wispbit|Wispbit]]
+- [[notes/articles/workflows|Workflows]]

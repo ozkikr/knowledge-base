@@ -1,11 +1,12 @@
 # vector-search
 
-*17 notes*
+*18 notes*
 
 - [[notes/articles/advanced-rag-techniques|Advanced RAG Techniques for High-Performance LLM Applications]]
 - [[notes/github/agentset|Agentset]]
 - [[notes/github/bleve|Bleve]]
 - [[notes/github/cognee|Cognee]]
+- [[notes/github/embedding_explorer|embedding_explorer]]
 - [[notes/github/search|kelindar/search]]
 - [[notes/github/memvid|Memvid]]
 - [[notes/github/seekdb|OceanBase seekdb]]

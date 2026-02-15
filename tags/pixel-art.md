@@ -1,5 +1,6 @@
 # pixel-art
 
-*1 notes*
+*2 notes*
 
+- [[notes/github/claude-quest|claude-quest]]
 - [[notes/github/rusticon|Rusticon]]

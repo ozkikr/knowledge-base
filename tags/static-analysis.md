@@ -1,7 +1,9 @@
 # static-analysis
 
-*11 notes*
+*13 notes*
 
+- [[notes/github/Auditor|Auditor]]
+- [[notes/github/claude_astgrep|claude_astgrep]]
 - [[notes/articles/finding-unreachable-functions-with-deadcode|Finding Unreachable Functions with deadcode]]
 - [[notes/github/go-arch-lint|go-arch-lint - Go Architecture Linter]]
 - [[notes/github/go-critic|go-critic]]

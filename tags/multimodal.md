@@ -1,6 +1,6 @@
 # multimodal
 
-*11 notes*
+*12 notes*
 
 - [[notes/github/fast-agent|fast-agent]]
 - [[notes/github/FlagEmbedding|FlagEmbedding (BGE) - Retrieval Toolkit for Search and RAG]]
@@ -13,3 +13,4 @@
 - [[notes/github/RAG-Anything|RAG-Anything: All-in-One Multimodal RAG Framework]]
 - [[notes/github/ScreenCoder|ScreenCoder]]
 - [[notes/github/youtu-vl|Youtu-VL]]
+- [[notes/github/yzma|yzma]]

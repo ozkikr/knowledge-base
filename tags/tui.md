@@ -1,6 +1,6 @@
 # tui
 
-*34 notes*
+*39 notes*
 
 - [[notes/github/agent-deck|Agent Deck - Terminal Session Manager for AI Coding Agents]]
 - [[notes/github/bubblyui|BubblyUI - Vue-Inspired TUI Framework for Go]]
@@ -21,16 +21,21 @@
 - [[notes/github/lazygit|lazygit]]
 - [[notes/github/lazymake|lazymake]]
 - [[notes/github/lazysql|LazySQL]]
+- [[notes/github/lemmy|Lemmy]]
+- [[notes/github/mcpmu|mcpmu]]
 - [[notes/github/memex|memex]]
+- [[notes/github/nexus|Nexus]]
 - [[notes/github/nori-cli|Nori CLI]]
 - [[notes/github/peky|peky]]
 - [[notes/github/go-qo|qo - Interactive TUI for Querying JSON/CSV with SQL]]
 - [[notes/github/rainfrog|Rainfrog]]
+- [[notes/github/ralph-tui|Ralph Tui]]
 - [[notes/github/recall|Recall]]
 - [[notes/github/roborev|roborev]]
 - [[notes/github/rusticon|Rusticon]]
 - [[notes/github/rustnet|rustnet]]
 - [[notes/github/snitch|Snitch]]
+- [[notes/github/sqlit|sqlit]]
 - [[notes/articles/the-lazy-git-ui-you-didnt-know-you-need|The (Lazy) Git UI You Didn't Know You Need]]
 - [[notes/github/toad|Toad]]
 - [[notes/github/tock|Tock]]

@@ -1,6 +1,6 @@
 # gemini
 
-*14 notes*
+*15 notes*
 
 - [[notes/github/adk-go|Agent Development Kit (ADK) for Go]]
 - [[notes/github/agor|Agor]]
@@ -15,4 +15,5 @@
 - [[notes/github/mnemo|Mnemo - Extended Memory for AI Assistants]]
 - [[notes/articles/understanding-codebases-with-ai-gemini-workflow|My AI Workflow for Understanding Any Codebase]]
 - [[notes/articles/gemini-3-review|My Gemini 3 Review]]
+- [[notes/github/Nano-Banana-Helper|Nano-Banana-Helper]]
 - [[notes/github/super-voice-assistant|Super Voice Assistant]]

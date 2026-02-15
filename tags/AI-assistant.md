@@ -1,8 +1,9 @@
 # ai-assistant
 
-*9 notes*
+*10 notes*
 
 - [[notes/github/amplifier|Amplifier (Microsoft)]]
+- [[notes/github/Datakit|Datakit]]
 - [[notes/github/picoclaw|mosaxiv/clawlet (formerly picoclaw)]]
 - [[notes/github/NativeMindExtension|NativeMind Extension]]
 - [[notes/github/NotebookLM-Chrome|NotebookLM-Chrome]]

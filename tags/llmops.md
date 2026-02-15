@@ -1,5 +1,6 @@
 # llmops
 
-*1 notes*
+*2 notes*
 
 - [[notes/github/agenta|Agenta]]
+- [[notes/github/reactive-agents|reactive-agents]]

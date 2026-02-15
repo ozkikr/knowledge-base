@@ -1,6 +1,6 @@
 # docker
 
-*25 notes*
+*26 notes*
 
 - [[notes/github/catnip|Catnip]]
 - [[notes/github/cek|cek - Container Exploration Kit]]
@@ -20,6 +20,7 @@
 - [[notes/github/gocraft|GoCraft - Go Backend Generator]]
 - [[notes/github/harbor|Harbor]]
 - [[notes/github/homarr|Homarr]]
+- [[notes/articles/installation-container-searxng|Installation Container]]
 - [[notes/articles/integration-testing-go-testcontainers-cosmosdb|Integration Testing for Go Applications Using Testcontainers and Containerized Databases]]
 - [[notes/github/maestro|Maestro]]
 - [[notes/articles/making-very-small-llms-smarter-with-rag|Making Very Small LLMs Smarter With RAG]]

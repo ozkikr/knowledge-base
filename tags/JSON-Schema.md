@@ -1,5 +1,5 @@
-# JSON-Schema
+# json-schema
 
 *1 notes*
 
-- [[notes/github/jsonschema-go|jsonschema-go]]
+- [[notes/articles/ollama-schematron-model-card|Inference/Schematron]]

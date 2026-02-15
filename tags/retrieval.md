@@ -1,6 +1,6 @@
 # retrieval
 
-*13 notes*
+*14 notes*
 
 - [[notes/articles/advanced-rag-techniques|Advanced RAG Techniques for High-Performance LLM Applications]]
 - [[notes/articles/baai-bge-m3-hugging-face|BAAI/bge-m3 · Hugging Face]]
@@ -15,3 +15,4 @@
 - [[notes/github/RagView|RagView]]
 - [[notes/github/refrag|REFRAG: Representation-Focused Retrieval Augmented Generation]]
 - [[notes/github/VeritasGraph|VeritasGraph - All-in-One GraphRAG Framework]]
+- [[notes/articles/retrieval-augmented-generation-rag-overview|What is Retrieval Augmented Generation (RAG)?]]

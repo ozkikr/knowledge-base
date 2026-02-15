@@ -1,6 +1,6 @@
 # ai
 
-*39 notes*
+*45 notes*
 
 - [[notes/github/assistant-ui|assistant-ui]]
 - [[notes/github/ccproxy-api|CCProxy API Server]]
@@ -8,6 +8,7 @@
 - [[notes/github/cocoindex|CocoIndex]]
 - [[notes/articles/coding-agents-and-complexity-budgets|Coding Agents & Complexity Budgets]]
 - [[notes/github/context-creator|Context Creator]]
+- [[notes/github/context-forge|Context Forge]]
 - [[notes/github/data-formulator|Data Formulator]]
 - [[notes/github/Dayflow|Dayflow - Automatic Day Timeline Generator]]
 - [[notes/github/gemini-mcp-tool|Gemini MCP Tool]]
@@ -26,18 +27,23 @@
 - [[notes/github/oracle|Oracle — Invoke LLMs with Custom Context and Files]]
 - [[notes/github/pgvectorscale|pgvectorscale]]
 - [[notes/github/pr-agent|PR-Agent]]
+- [[notes/github/ProjectAtlas|ProjectAtlas]]
 - [[notes/github/quorum-cli|Quorum CLI]]
 - [[notes/github/qwen-code|Qwen Code]]
 - [[notes/github/R2R|R2R - Production-Ready AI Retrieval System]]
 - [[notes/github/ragflow|RAGFlow]]
+- [[notes/github/raggo|Raggo]]
+- [[notes/github/ralph|Ralph]]
 - [[notes/github/sketch|Sketch]]
 - [[notes/articles/amazon-kiro-source-code|Source Code Analysis of Amazon Kiro]]
 - [[notes/github/sourcebot|Sourcebot]]
 - [[notes/github/stagewise|stagewise]]
 - [[notes/github/streamdown|Streamdown - Streaming Markdown for AI]]
+- [[notes/github/system-prompts-and-models-of-ai-tools|System Prompts And Models Of Ai Tools]]
 - [[notes/github/terminal-ai|terminal-ai]]
 - [[notes/github/toad|Toad]]
 - [[notes/github/traceroot|TraceRoot]]
 - [[notes/github/VeritasGraph|VeritasGraph - All-in-One GraphRAG Framework]]
 - [[notes/github/voicebun|Voicebun]]
+- [[notes/articles/retrieval-augmented-generation-rag-overview|What is Retrieval Augmented Generation (RAG)?]]
 - [[notes/github/wispbit|Wispbit]]

@@ -1,9 +1,10 @@
 # security
 
-*19 notes*
+*22 notes*
 
 - [[notes/articles/an-illustrated-guide-to-oauth|An Illustrated Guide to OAuth]]
 - [[notes/github/sandbox-runtime|Anthropic Sandbox Runtime (srt)]]
+- [[notes/github/Auditor|Auditor]]
 - [[notes/github/claude-bootstrap|Claude Bootstrap]]
 - [[notes/github/construct-cli|Construct CLI]]
 - [[notes/github/cupcake|Cupcake]]
@@ -16,7 +17,9 @@
 - [[notes/github/magika|Magika - AI-Powered File Type Detection]]
 - [[notes/github/mcp-claude-reviewer|MCP Claude Reviewer]]
 - [[notes/github/OpenRT|OpenRT]]
+- [[notes/articles/self-driving-devops-stakpak-infrastructure-complexity|Self-Driving DevOps? How Stakpak Tackles Infrastructure Complexity]]
 - [[notes/github/sqlmap|sqlmap - Automatic SQL Injection and Database Takeover Tool]]
+- [[notes/github/srt|srt]]
 - [[notes/github/agent|Stakpak Agent]]
 - [[notes/github/strix|Strix - Open-Source AI Security Testing Agents]]
 - [[notes/github/tailsnitch|Tailsnitch]]

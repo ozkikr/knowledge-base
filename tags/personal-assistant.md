@@ -1,5 +1,6 @@
 # personal-assistant
 
-*1 notes*
+*2 notes*
 
+- [[notes/github/clawdbot|clawdbot]]
 - [[notes/github/ironclaw|ironclaw]]

@@ -1,5 +1,6 @@
 # llm-integration
 
-*1 notes*
+*2 notes*
 
+- [[notes/articles/adapters-dspy|Adapters - DSPy]]
 - [[notes/github/imessage-mcp|iMessage MCP]]

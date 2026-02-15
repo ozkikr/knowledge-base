@@ -1,5 +1,6 @@
 # full-text-search
 
-*1 notes*
+*2 notes*
 
 - [[notes/github/bleve|Bleve]]
+- [[notes/github/Contextinator|Contextinator]]

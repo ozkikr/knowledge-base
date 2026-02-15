@@ -1,5 +1,6 @@
 # prompt-optimization
 
-*1 notes*
+*2 notes*
 
+- [[notes/github/agent-lightning|agent-lightning]]
 - [[notes/github/dspy|DSPy]]

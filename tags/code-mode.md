@@ -1,5 +1,6 @@
 # code-mode
 
-*1 notes*
+*2 notes*
 
+- [[notes/articles/code-mode-bifrost|Code Mode]]
 - [[notes/github/pctx|pctx — Execution Layer for Agentic Tool Calls]]

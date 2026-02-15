@@ -1,6 +1,6 @@
 # open-source
 
-*25 notes*
+*27 notes*
 
 - [[notes/github/Agentica|Agentica]]
 - [[notes/github/agentset|Agentset]]
@@ -24,6 +24,8 @@
 - [[notes/github/qwen-code|Qwen Code]]
 - [[notes/github/shaper|Shaper]]
 - [[notes/articles/so-you-wanna-build-a-local-rag|So You Wanna Build a Local RAG?]]
+- [[notes/github/system-prompts-and-models-of-ai-tools|System Prompts And Models Of Ai Tools]]
 - [[notes/github/tldw|tldw - Too Long, Didn't Watch]]
+- [[notes/articles/tongyi-deepresearch-open-source-web-agent|Tongyi DeepResearch: A New Era of Open-Source AI Researchers]]
 - [[notes/github/tool-ui|tool-ui]]
 - [[notes/github/wispbit|Wispbit]]

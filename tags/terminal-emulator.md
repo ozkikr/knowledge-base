@@ -1,5 +1,6 @@
 # terminal-emulator
 
-*1 notes*
+*2 notes*
 
+- [[notes/github/ghostty-web|ghostty-web]]
 - [[notes/github/SwiftTerm|SwiftTerm]]

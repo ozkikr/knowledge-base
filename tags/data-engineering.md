@@ -1,10 +1,11 @@
 # data-engineering
 
-*9 notes*
+*10 notes*
 
 - [[notes/articles/apache-arrow-adbc-database-drivers|Apache Arrow ADBC Database Drivers]]
 - [[notes/github/boring-semantic-layer|Boring Semantic Layer (BSL)]]
 - [[notes/github/chronon|Chronon (Airbnb)]]
+- [[notes/github/data-ai-tickets-template|data-ai-tickets-template]]
 - [[notes/github/dbt-column-lineage|dbt-column-lineage - Column-Level Lineage & Impact Analysis for dbt]]
 - [[notes/github/dbt-ui|dbt-ui]]
 - [[notes/github/nao|nao]]

@@ -1,12 +1,14 @@
 # embeddings
 
-*22 notes*
+*25 notes*
 
 - [[notes/github/ArcticInference|ArcticInference — vLLM Plugin for High-Throughput LLM Inference]]
 - [[notes/github/avocadodb|AvocadoDB - Deterministic Context Database for AI Agents]]
 - [[notes/github/chonkie|Chonkie]]
+- [[notes/github/Contextinator|Contextinator]]
 - [[notes/articles/contextual-retrieval|Contextual Retrieval in AI Systems]]
 - [[notes/github/embedding-atlas|Embedding Atlas]]
+- [[notes/github/embedding_explorer|embedding_explorer]]
 - [[notes/github/FlagEmbedding|FlagEmbedding (BGE) - Retrieval Toolkit for Search and RAG]]
 - [[notes/github/gorag|GoRag - Go Library for RAG Development]]
 - [[notes/articles/how-llm-inference-works|How LLM Inference Works]]
@@ -21,6 +23,7 @@
 - [[notes/github/pgvectorscale|pgvectorscale]]
 - [[notes/github/Project_Golem|Project Golem]]
 - [[notes/github/rag-from-scratch|RAG from Scratch]]
+- [[notes/github/raggo|Raggo]]
 - [[notes/github/ragmate|RAGmate]]
 - [[notes/github/sgrep|sgrep]]
 - [[notes/github/sqlite-vector|SQLite Vector]]

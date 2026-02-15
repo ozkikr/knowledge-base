@@ -1,6 +1,6 @@
 # coding-agent
 
-*22 notes*
+*23 notes*
 
 - [[notes/github/amplifier|Amplifier (Microsoft)]]
 - [[notes/github/async-server|Async Server]]
@@ -18,6 +18,7 @@
 - [[notes/github/Claude-Cowork|Open Claude Cowork (Agent Cowork)]]
 - [[notes/github/open-swe|Open SWE]]
 - [[notes/github/opencode|OpenCode]]
+- [[notes/github/pi-mono|Pi Monorepo]]
 - [[notes/github/quibbler|Quibbler]]
 - [[notes/github/qwen-code|Qwen Code]]
 - [[notes/github/RA.Aid|RA.Aid]]

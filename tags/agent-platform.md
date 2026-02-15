@@ -1,5 +1,6 @@
 # agent-platform
 
-*1 notes*
+*2 notes*
 
+- [[notes/github/hector|hector]]
 - [[notes/github/mindroot|runvnc/mindroot]]

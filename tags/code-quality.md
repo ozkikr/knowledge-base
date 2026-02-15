@@ -1,7 +1,8 @@
 # code-quality
 
-*7 notes*
+*8 notes*
 
+- [[notes/github/claude_astgrep|claude_astgrep]]
 - [[notes/github/go-critic|go-critic]]
 - [[notes/github/pyscn|pyscn]]
 - [[notes/github/quibbler|Quibbler]]

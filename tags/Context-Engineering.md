@@ -1,12 +1,13 @@
 # context-engineering
 
-*26 notes*
+*30 notes*
 
 - [[notes/articles/guide-to-claude-code-2-and-coding-agents|A Guide to Claude Code 2.0 and Getting Better at Using Coding Agents]]
 - [[notes/articles/a-short-lesson-in-simpler-prompts|A Short Lesson in Simpler Prompts]]
 - [[notes/github/ace|ACE - Agentic Context Engineering]]
 - [[notes/github/advanced-context-engineering-for-coding-agents|Advanced Context Engineering for Coding Agents]]
 - [[notes/github/Agent-Skills-for-Context-Engineering|Agent Skills for Context Engineering]]
+- [[notes/papers/agentic-context-engineering-evolving-contexts-for-self-improving-language-models|Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models]]
 - [[notes/articles/agents-2.0-deep-agents|Agents 2.0: From Shallow Loops to Deep Agents]]
 - [[notes/articles/architecting-efficient-context-aware-multi-agent-framework|Architecting Efficient Context-Aware Multi-Agent Framework for Production]]
 - [[notes/articles/tavily-deep-research|Building Deep Research: How Tavily Achieved State of the Art]]
@@ -15,12 +16,15 @@
 - [[notes/articles/context-engineering-for-agents|Context Engineering for Agents]]
 - [[notes/articles/context-engineering-for-ai-agents|Context Engineering for AI Agents: Lessons from Building Manus]]
 - [[notes/articles/context-engineering-part-2|Context Engineering for AI Agents: Part 2]]
+- [[notes/articles/context-engineering-for-personalization-state-management-with-long-term-memory-notes-using-openai-agents-sdk|Context Engineering for Personalization - State Management with Long-Term Memory Notes using OpenAI Agents SDK]]
+- [[notes/github/context-forge|Context Forge]]
 - [[notes/github/context-viewer|Context Viewer]]
 - [[notes/articles/effective-context-engineering-for-ai-agents|Effective Context Engineering for AI Agents]]
 - [[notes/github/fenic|fenic]]
 - [[notes/articles/fight-context-rot-with-context-observability|Fight Context Rot with Context Observability]]
 - [[notes/articles/how-to-turn-claude-code-into-a-domain-specific-coding-agent|How to Turn Claude Code into a Domain Specific Coding Agent]]
 - [[notes/github/humanlayer|HumanLayer (CodeLayer)]]
+- [[notes/articles/lessons-learned-from-scaling-data-scientists-with-ai|Lessons learned from scaling data scientists with AI]]
 - [[notes/github/MineContext|MineContext]]
 - [[notes/articles/one-agent-isnt-enough|One Agent Isn't Enough]]
 - [[notes/github/distill|Siddhant-K-code/distill]]

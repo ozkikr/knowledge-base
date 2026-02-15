@@ -1,8 +1,10 @@
 # react
 
-*19 notes*
+*24 notes*
 
 - [[notes/github/assistant-ui|assistant-ui]]
+- [[notes/articles/assistant-ui-assistant-sidebar|AssistantSidebar]]
+- [[notes/articles/react-flow-mind-map-app-tutorial|Build a Mind Map App with React Flow]]
 - [[notes/articles/building-a-toast-component|Building a Toast Component]]
 - [[notes/github/crayon|Crayon]]
 - [[notes/github/fate|fate - Modern Data Client for React & tRPC]]
@@ -10,8 +12,10 @@
 - [[notes/github/lytenyte|LyteNyte Grid]]
 - [[notes/github/onlook|onlook]]
 - [[notes/github/puck|Puck]]
+- [[notes/github/react-grab|react-grab]]
 - [[notes/github/remotion|Remotion]]
 - [[notes/github/reshaped|Reshaped]]
+- [[notes/github/sanity|sanity]]
 - [[notes/github/search-input-query|Search Input Query]]
 - [[notes/github/streamdown|Streamdown - Streaming Markdown for AI]]
 - [[notes/github/stylex|StyleX - The Styling System for Ambitious User Interfaces]]
@@ -21,3 +25,4 @@
 - [[notes/github/tool-ui|tool-ui]]
 - [[notes/github/victory|Victory]]
 - [[notes/github/xyflow|xyflow (React Flow / Svelte Flow)]]
+- [[notes/articles/use-sync-external-store-react-pattern|You may be looking for a useSyncExternalStore]]

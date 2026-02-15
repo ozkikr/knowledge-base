@@ -1,9 +1,11 @@
 # agents
 
-*57 notes*
+*64 notes*
 
 - [[notes/github/a1|A1 - The Agent-to-Code Compiler]]
+- [[notes/articles/agentpool-ag-ui-integration|AG-UI Integration - AgentPool]]
 - [[notes/papers/agent-learning-via-early-experience|Agent Learning via Early Experience]]
+- [[notes/github/agent-cli-to-api|agent-cli-to-api]]
 - [[notes/github/AgentFlow|AgentFlow - In-the-Flow Agentic System Optimization]]
 - [[notes/articles/agentflow-in-the-flow-agentic-system-optimization|AgentFlow: In-the-Flow Agentic System Optimization]]
 - [[notes/github/agentic-context-engine|Agentic Context Engine (ACE)]]
@@ -12,6 +14,7 @@
 - [[notes/github/better-agents|Better Agents - Standards for building agents, better]]
 - [[notes/articles/building-deep-research-agent-mcp|Building a Deep Research Agent Using MCP-Agent]]
 - [[notes/articles/tavily-deep-research|Building Deep Research: How Tavily Achieved State of the Art]]
+- [[notes/articles/huggingface-smolagents-building-good-agents|Building good agents]]
 - [[notes/github/claude-agents|Claude Agents]]
 - [[notes/articles/context-engineering-for-agents|Context Engineering for Agents]]
 - [[notes/articles/context-engineering-part-2|Context Engineering for AI Agents: Part 2]]
@@ -49,12 +52,16 @@
 - [[notes/github/opperator|Opperator - Framework for Building Local AI Agents]]
 - [[notes/github/orla|Orla]]
 - [[notes/github/PolyMCP|PolyMCP — Universal MCP Toolkit and Agent Framework]]
+- [[notes/github/Puzld.ai|Puzld.ai]]
+- [[notes/articles/youtu-agent-quickstart|QuickStart - Youtu-Agent]]
 - [[notes/github/ragflow|RAGFlow]]
 - [[notes/github/rhesis|Rhesis - Collaborative Testing for LLM & Agentic Apps]]
 - [[notes/articles/simplify-agent-building-adk-gemini-cli|Simplify Your Agent "Vibe Building" Flow with ADK and Gemini CLI]]
 - [[notes/github/smolagents|smolagents]]
+- [[notes/articles/huggingface-smolagents-building|smolagents tutorial: building (redirect)]]
 - [[notes/articles/sourcebot-agents-overview|Sourcebot Agents Overview]]
 - [[notes/articles/the-unreasonable-effectiveness-of-an-llm-agent-loop-with-tool-use|The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use]]
+- [[notes/articles/tongyi-deepresearch-open-source-web-agent|Tongyi DeepResearch: A New Era of Open-Source AI Researchers]]
 - [[notes/github/wavefront|Wavefront]]
 - [[notes/github/webctl|webctl]]
 - [[notes/articles/writing-effective-tools-for-ai-agents|Writing Effective Tools for AI Agents—Using AI Agents]]

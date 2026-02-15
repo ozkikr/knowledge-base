@@ -1,6 +1,6 @@
 # git
 
-*14 notes*
+*15 notes*
 
 - [[notes/github/beads|Beads - Memory Upgrade for Coding Agents]]
 - [[notes/github/difi|difi]]
@@ -15,4 +15,5 @@
 - [[notes/articles/stacked-diffs-with-rebase-onto|Stacked Diffs with `git rebase --onto`]]
 - [[notes/articles/the-lazy-git-ui-you-didnt-know-you-need|The (Lazy) Git UI You Didn't Know You Need]]
 - [[notes/articles/the-git-command-that-could-have-saved-you-hours|The Git Command That Could Have Saved You Hours]]
+- [[notes/github/worktree-parallel|worktree-parallel]]
 - [[notes/github/worktrunk|Worktrunk]]

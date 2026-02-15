@@ -1,15 +1,21 @@
 # automation
 
-*23 notes*
+*30 notes*
 
+- [[notes/github/advanced-imessage-kit|advanced-imessage-kit]]
 - [[notes/github/agent-slack|agent-slack]]
 - [[notes/github/agentapi|AgentAPI]]
+- [[notes/articles/autonomous-startup-generator-architecture|Architecture of an autonomous startup-idea generator (Python, Pydantic AI, Gemini, Postgres)]]
+- [[notes/github/awesome-codex-automations|awesome-codex-automations]]
 - [[notes/articles/feedback-loops-background-coding-agents-part-3|Background Coding Agents: Predictable Results Through Strong Feedback Loops (Part 3)]]
 - [[notes/github/binsmith|Binsmith]]
 - [[notes/github/bytebot|Bytebot]]
 - [[notes/github/certmate|CertMate - SSL Certificate Management System]]
 - [[notes/github/claude-loop|Claude Loop]]
+- [[notes/github/claude-code-resources|claude-code-resources]]
+- [[notes/github/commands|commands]]
 - [[notes/github/continuous-claude|Continuous Claude]]
+- [[notes/github/copy-claude-response|copy-claude-response]]
 - [[notes/github/crewai-gmail-automation|CrewAI Gmail Automation]]
 - [[notes/github/codex-container|Gnosis Container (codex-container)]]
 - [[notes/github/interminai|interminai - Interactive Terminal for AI]]
@@ -20,6 +26,7 @@
 - [[notes/github/os-ai-computer-use|OS AI Computer Use]]
 - [[notes/github/rwx|rwx (ralph, wiggum, execute)]]
 - [[notes/github/shot-scraper|shot-scraper]]
+- [[notes/github/Skill_Seekers|Skill_Seekers]]
 - [[notes/articles/sourcebot-agents-overview|Sourcebot Agents Overview]]
 - [[notes/github/SwiftBar|SwiftBar]]
 - [[notes/github/terminal-ai|terminal-ai]]

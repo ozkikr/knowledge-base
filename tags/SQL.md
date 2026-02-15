@@ -1,6 +1,6 @@
 # sql
 
-*18 notes*
+*21 notes*
 
 - [[notes/github/bird-sql|bird-sql]]
 - [[notes/github/bruin|Bruin]]
@@ -11,12 +11,15 @@
 - [[notes/github/lazysql|LazySQL]]
 - [[notes/github/malloy|Malloy]]
 - [[notes/github/memori|Memori]]
+- [[notes/github/pgFirstAid|pgFirstAid]]
 - [[notes/github/go-qo|qo - Interactive TUI for Querying JSON/CSV with SQL]]
 - [[notes/github/search-input-query|Search Input Query]]
 - [[notes/github/shaper|Shaper]]
 - [[notes/github/sirius|Sirius - GPU-Native SQL Engine]]
 - [[notes/github/sql-crack|sql-crack]]
 - [[notes/github/sqlclosecheck|sqlclosecheck]]
+- [[notes/github/sqlit|sqlit]]
 - [[notes/github/squirreling|Squirreling]]
+- [[notes/articles/query-farm-stochastic-duckdb-extension|Stochastic DuckDB Extension]]
 - [[notes/github/tree-sitter-sql|tree-sitter-sql]]
 - [[notes/github/yardstick|Yardstick — Measures in SQL for DuckDB]]

@@ -1,6 +1,7 @@
 # code-indexing
 
-*2 notes*
+*3 notes*
 
 - [[notes/github/code-index-mcp|Code Index MCP]]
+- [[notes/github/coderlm|coderlm]]
 - [[notes/github/pytelos|Pytelos]]

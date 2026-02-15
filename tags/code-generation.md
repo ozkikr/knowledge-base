@@ -1,9 +1,10 @@
 # code-generation
 
-*16 notes*
+*17 notes*
 
 - [[notes/github/agent-foreman|agent-foreman]]
 - [[notes/papers/agentic-rubrics-as-contextual-verifiers-for-swe-agents|Agentic Rubrics as Contextual Verifiers for SWE Agents]]
+- [[notes/papers/cast-enhancing-code-retrieval-augmented-generation-with-structural-chunking-via-abstract-syntax-tree|cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree]]
 - [[notes/github/ent|ent - An Entity Framework for Go]]
 - [[notes/github/go-mapper-gen|go-mapper-gen]]
 - [[notes/github/godemode|GoDeMode]]
