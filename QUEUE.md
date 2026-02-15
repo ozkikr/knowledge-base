@@ -2,6 +2,8 @@
 
 Unprocessed links from the original linkdump. Remove as processed.
 
+
+
 ## GitHub Repos (84)
 
 - http://github.com/kruskal-labs/toolfront
@@ -10,27 +12,20 @@ Unprocessed links from the original linkdump. Remove as processed.
 - https://github.com/BehiSecc/awesome-claude-skills?tab=readme-ov-file
 - https://github.com/BrokkAi/brokk
 - https://github.com/CyberMagician/Project
-- https://github.com/DayuanJiang/next-ai-draw-ioops
-- https://github.com/DeepBlueDynamics/-container
 - https://github.com/Dicklesworthstone/claude
 - https://github.com/Dicklesworthstone/mcp
 - https://github.com/Dicklesworthstone/misc
 - https://github.com/EveryInc/compounding-engineering-plugin
-- https://github.com/Fission-AI/OpenSpecops
 - https://github.com/GewoonJaap/-openai-wrapper
 - https://github.com/HelixDB/helix-db
 - https://github.com/MadAppGang/claude-code/tree/main/tools/claudeup
-- https://github.com/MemoriLabs/Memoriops
-- https://github.com/MoonshotAI/kimi-cliops
 - https://github.com/NirDiamant/RAG
 - https://github.com/SolanaO/Blogs
-- https://github.com/VERT-sh/VERTops
 - https://github.com/abhigyanpatwari/gitnexus
 - https://github.com/ahmedaymanzekry/-belya
 - https://github.com/appdotbuild/agent/tree/main/agent
 - https://github.com/appdotbuild/claude
 - https://github.com/athola/-mcp-skills
-- https://github.com/basilisk-labs/-swarm
 - https://github.com/belumume/claude-skills
 - https://github.com/brainqub3/claude
 - https://github.com/coder/blink
@@ -41,7 +36,6 @@ Unprocessed links from the original linkdump. Remove as processed.
 - https://github.com/eduardofuncao/pam
 - https://github.com/ericmjl/canvas-chat
 - https://github.com/external-secrets-inc/external-secrets-enterprise/tree/main/pkg/enterprise
-- https://github.com/fabriziosalmi/certmateops
 - https://github.com/facebookresearch/ShapeR?utm
 - https://github.com/facebookresearch/sam-3d-objects?utm
 - https://github.com/farouqaldori/claude-island
@@ -58,29 +52,20 @@ Unprocessed links from the original linkdump. Remove as processed.
 - https://github.com/hsperus/clai
 - https://github.com/icloud-photos-downloader/icloud
 - https://github.com/jamesrochabrun/UI
-- https://github.com/jayasuryajsk/-kaioken
-- https://github.com/kantord/headsonops
 - https://github.com/langchain-ai/deepagents/tree/master
 - https://github.com/langchain-ai/open
 - https://github.com/marmotdata/marmot
-- https://github.com/microsoft/agent-lightningops
 - https://github.com/mosif16/-Skills
-- https://github.com/mountain-loop/yaakops
 - https://github.com/oneslash/jb-
-- https://github.com/openlit/openlitops
 - https://github.com/pedramamini/Maestro
 - https://github.com/protocol-lattice/go-agent
 - https://github.com/qrv0/LLM-Ripper
 - https://github.com/roborev-dev/roborev
 - https://github.com/rttgnck/MobileBuilder
 - https://github.com/run-llama/llama
-- https://github.com/rustfs/rustfsops
 - https://github.com/rvantonder/execute
 - https://github.com/saadnvd1/agent-os
-- https://github.com/sinelaw/freshops
 - https://github.com/timescale/pg
-- https://github.com/tonyantony300/alt-sendmeops
-- https://github.com/topoteretes/cogneeops
 - https://github.com/tuannvm/-mcp-server
 - https://github.com/vibeflowing-inc/vibe
 - https://github.com/wshobson/agents/tree/main
@@ -91,34 +76,9 @@ Unprocessed links from the original linkdump. Remove as processed.
 
 ## HuggingFace (28)
 
-- https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B
-- https://huggingface.co/LiquidAI
-- https://huggingface.co/MiniMaxAI/models
-- https://huggingface.co/NECOUDBFM/Jellyfish-8B
-- https://huggingface.co/adamkarvonen/chess
-- https://huggingface.co/amd/Zebra-Llama-8B-8MLA-24Mamba-SFT
-- https://huggingface.co/bartowski/allura-forge
-- https://huggingface.co/bartowski/nvidia
-- https://huggingface.co/browser-use/bu-30b-a3b-preview
-- https://huggingface.co/daavidhauser/chess-bot-3000-250m
-- https://huggingface.co/distil-labs
-- https://huggingface.co/facebook/sam-3d-body-dinov3
-- https://huggingface.co/flashresearch/FlashResearch-4B-Thinking
-- https://huggingface.co/google/models
-- https://huggingface.co/microsoft/OptiMind-SFT
-- https://huggingface.co/mradermacher/Arctic-Text2SQL-R1-7B-GGUF
-- https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8
-- https://huggingface.co/nvidia/parakeet
 - https://huggingface.co/spaces/Qwen/Qwen3-TTS
 - https://huggingface.co/spaces/mteb/leaderboard?benchmark
 - https://huggingface.co/spaces/sentence-transformers/quantized-retrieval
-- https://huggingface.co/srswti
-- https://huggingface.co/tiiuae/Falcon-H1R-7B-GGUF
-- https://huggingface.co/zai-org/GLM-4.6
-- https://huggingface.co/zai-org/GLM-4.6V-Flash
-- https://huggingface.co/zai-org/GLM-4.7-Flash
-- https://huggingface.co/zai-org/GLM-OCR
-- https://huggingface.co/zai-org/GLM-TTS
 
 ## Articles & Blogs (133)
 
@@ -288,5 +248,6 @@ _Individual files within repos — consider whether these need standalone notes.
 - https://gist.github.com/sharno/a3a14f6c440dd8c8cfbb6091987a5072
 
 
+
 ---
-*Remaining: 265 links | Removed: 238 (processed)*
+*Remaining: 223 links*
