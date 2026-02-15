@@ -146,13 +146,9 @@ Unprocessed links from the original linkdump. Remove as processed.
 - https://yaak.app/
 - https://zencoder.ai/zenflow
 
-## Papers / arXiv (5)
+## Papers / arXiv
 
-- https://arxiv.org/html/2601.20245v1
-- https://arxiv.org/pdf/2506.15655
-- https://arxiv.org/pdf/2510.04618
-- https://arxiv.org/pdf/2510.07233
-- https://arxiv.org/pdf/2511.09030
+_All processed._
 
 ## GitHub Subfiles & Configs (4)
 
@@ -180,4 +176,4 @@ _Individual files within repos — consider whether these need standalone notes.
 ---
 
 
-*Remaining: 153 links*
+*Remaining: 148 links*
