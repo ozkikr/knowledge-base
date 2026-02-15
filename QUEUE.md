@@ -4,57 +4,6 @@ Unprocessed links from the original linkdump. Remove as processed.
 
 ## Github Repos Fixed 
 
-- https://github.com/Cinnamon/kotaemon
-- https://github.com/zilliztech/claude-context
-- https://github.com/statespace-tech/statespace
-- https://github.com/BehiSecc/awesome-claude-skills
-- https://github.com/CyberMagician/Project_Golem
-- https://github.com/Dicklesworthstone/coding_agent_session_search
-- https://github.com/EveryInc/compound-engineering-plugin
-- https://github.com/HelixDB/helix-db
-- https://github.com/NirDiamant/RAG_Techniques
-- https://github.com/coder/blink
-- https://github.com/icloud-photos-downloader/icloud_photos_downloader
-- https://github.com/ginkida/gokin/
-- https://github.com/yusufkaraaslan/Skill_Seekers
-- https://github.com/saadnvd1/agent-os
-- https://github.com/protocol-lattice/go-agent
-- https://github.com/roborev-dev/roborev
-- https://github.com/firstbatchxyz/mem-agent
-- https://github.com/eduardofuncao/pam
-- https://github.com/dwmkerr/shellwright
-- https://github.com/ericmjl/canvas-chat
-- https://github.com/pedramamini/Maestro
-- https://github.com/marmotdata/marmot
-- https://github.com/langchain-ai/open_deep_research
-- https://github.com/langchain-ai/deepagents
-- https://github.com/getclawe/clawe
-- https://github.com/gadievron/raptor
-- https://github.com/dnys1/embedding_explorer
-- https://github.com/brainqub3/claude_code_RLM
-- https://github.com/neondatabase/claude_astgrep
-- https://github.com/ahmedaymanzekry/codex-belya
-- https://github.com/abhigyanpatwari/gitnexus
-- https://github.com/rvantonder/execute_code_py
-- https://github.com/run-llama/llama_index
-- https://github.com/timescale/pgvectorscale
-- https://github.com/timescale/pg_textsearch
-- https://github.com/gsd-build/get-shit-done
-- https://github.com/fractalbits-labs/fractalbits-main
-- https://github.com/farouqaldori/claude-island
-- https://github.com/facebookresearch/sam-3d-objects
-- https://github.com/facebookresearch/ShapeR
-- https://github.com/belumume/claude-skills
-- https://github.com/jamesrochabrun/Claw
-- https://github.com/jamesrochabrun/CodexUI
-- https://github.com/durable-streams/durable-streams
-- https://github.com/dragosroua/claude-assess-decide-do-mega-prompt
-- https://github.com/wshobson/agents
-- https://github.com/vibeflowing-inc/vibe_figma
-- https://github.com/tuannvm/mcp-trino
-- https://github.com/tuannvm/gemini-mcp-server
-- https://github.com/mosif16/codex-Skills
-- https://github.com/athola/skrills
 
 ## HuggingFace (28)
 
@@ -210,8 +159,6 @@ Unprocessed links from the original linkdump. Remove as processed.
 _Individual files within repos — consider whether these need standalone notes._
 
 - https://github.com/artvandelay/-agentic-patterns/blob/main/docs/learning-material/02-routing/README.md
-- https://github.com/jessfraz/dotfiles/blob/main/.codex/AGENTS.md
-- https://github.com/kaushikgopal/dotfiles/blob/master/bin/tmux-subagent
 - https://github.com/skills-directory/skill-/blob/main/SKILL.md
 
 ## Gists (11)
@@ -231,4 +178,6 @@ _Individual files within repos — consider whether these need standalone notes.
 
 
 ---
-*Remaining: 223 links*
+
+
+*Remaining: 153 links*
