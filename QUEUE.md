@@ -2,77 +2,59 @@
 
 Unprocessed links from the original linkdump. Remove as processed.
 
+## Github Repos Fixed 
 
-
-## GitHub Repos (84)
-
-- http://github.com/kruskal-labs/toolfront
-- https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/configuring-the-dependency-graph
-- https://docs.github.com/en/copilot/concepts/agents/about-copilot-cli
-- https://github.com/BehiSecc/awesome-claude-skills?tab=readme-ov-file
-- https://github.com/BrokkAi/brokk
-- https://github.com/CyberMagician/Project
-- https://github.com/Dicklesworthstone/claude
-- https://github.com/Dicklesworthstone/mcp
-- https://github.com/Dicklesworthstone/misc
-- https://github.com/EveryInc/compounding-engineering-plugin
-- https://github.com/GewoonJaap/-openai-wrapper
-- https://github.com/HelixDB/helix-db
-- https://github.com/MadAppGang/claude-code/tree/main/tools/claudeup
-- https://github.com/NirDiamant/RAG
-- https://github.com/SolanaO/Blogs
-- https://github.com/abhigyanpatwari/gitnexus
-- https://github.com/ahmedaymanzekry/-belya
-- https://github.com/appdotbuild/agent/tree/main/agent
-- https://github.com/appdotbuild/claude
-- https://github.com/athola/-mcp-skills
-- https://github.com/belumume/claude-skills
-- https://github.com/brainqub3/claude
-- https://github.com/coder/blink
-- https://github.com/dnys1/embedding
-- https://github.com/dragosroua/claude-assess-decide-do-mega-prompt
-- https://github.com/durable-streams/durable-streams
-- https://github.com/dwmkerr/shellwright
-- https://github.com/eduardofuncao/pam
-- https://github.com/ericmjl/canvas-chat
-- https://github.com/external-secrets-inc/external-secrets-enterprise/tree/main/pkg/enterprise
-- https://github.com/facebookresearch/ShapeR?utm
-- https://github.com/facebookresearch/sam-3d-objects?utm
-- https://github.com/farouqaldori/claude-island
-- https://github.com/firstbatchxyz
-- https://github.com/fractalbits-labs/fractalbits-main
-- https://github.com/gadievron/raptor/
-- https://github.com/galaxyxtwo/rag-agent
-- https://github.com/getclawe/clawe
-- https://github.com/ginkida/gokin/tree/main
-- https://github.com/glittercowboy/get-shit-done/tree/main
-- https://github.com/grpc/grpc-web
-- https://github.com/helallao/perplexity-ai
-- https://github.com/heyhuynhgiabuu/proxypal
-- https://github.com/hsperus/clai
-- https://github.com/icloud-photos-downloader/icloud
-- https://github.com/jamesrochabrun/UI
-- https://github.com/langchain-ai/deepagents/tree/master
-- https://github.com/langchain-ai/open
-- https://github.com/marmotdata/marmot
-- https://github.com/mosif16/-Skills
-- https://github.com/oneslash/jb-
-- https://github.com/pedramamini/Maestro
-- https://github.com/protocol-lattice/go-agent
-- https://github.com/qrv0/LLM-Ripper
-- https://github.com/roborev-dev/roborev
-- https://github.com/rttgnck/MobileBuilder
-- https://github.com/run-llama/llama
-- https://github.com/rvantonder/execute
-- https://github.com/saadnvd1/agent-os
-- https://github.com/timescale/pg
-- https://github.com/tuannvm/-mcp-server
-- https://github.com/vibeflowing-inc/vibe
-- https://github.com/wshobson/agents/tree/main
-- https://github.com/x0x0b/-launcher
-- https://github.com/yusufkaraaslan/Skill
+- https://github.com/Cinnamon/kotaemon
 - https://github.com/zilliztech/claude-context
-- https://hellogithub.com/en/repository/d3141471a0244d5798bc654982b263eb
+- https://github.com/statespace-tech/statespace
+- https://github.com/BehiSecc/awesome-claude-skills
+- https://github.com/CyberMagician/Project_Golem
+- https://github.com/Dicklesworthstone/coding_agent_session_search
+- https://github.com/EveryInc/compound-engineering-plugin
+- https://github.com/HelixDB/helix-db
+- https://github.com/NirDiamant/RAG_Techniques
+- https://github.com/coder/blink
+- https://github.com/icloud-photos-downloader/icloud_photos_downloader
+- https://github.com/ginkida/gokin/
+- https://github.com/yusufkaraaslan/Skill_Seekers
+- https://github.com/saadnvd1/agent-os
+- https://github.com/protocol-lattice/go-agent
+- https://github.com/roborev-dev/roborev
+- https://github.com/firstbatchxyz/mem-agent
+- https://github.com/eduardofuncao/pam
+- https://github.com/dwmkerr/shellwright
+- https://github.com/ericmjl/canvas-chat
+- https://github.com/pedramamini/Maestro
+- https://github.com/marmotdata/marmot
+- https://github.com/langchain-ai/open_deep_research
+- https://github.com/langchain-ai/deepagents
+- https://github.com/getclawe/clawe
+- https://github.com/gadievron/raptor
+- https://github.com/dnys1/embedding_explorer
+- https://github.com/brainqub3/claude_code_RLM
+- https://github.com/neondatabase/claude_astgrep
+- https://github.com/ahmedaymanzekry/codex-belya
+- https://github.com/abhigyanpatwari/gitnexus
+- https://github.com/rvantonder/execute_code_py
+- https://github.com/run-llama/llama_index
+- https://github.com/timescale/pgvectorscale
+- https://github.com/timescale/pg_textsearch
+- https://github.com/gsd-build/get-shit-done
+- https://github.com/fractalbits-labs/fractalbits-main
+- https://github.com/farouqaldori/claude-island
+- https://github.com/facebookresearch/sam-3d-objects
+- https://github.com/facebookresearch/ShapeR
+- https://github.com/belumume/claude-skills
+- https://github.com/jamesrochabrun/Claw
+- https://github.com/jamesrochabrun/CodexUI
+- https://github.com/durable-streams/durable-streams
+- https://github.com/dragosroua/claude-assess-decide-do-mega-prompt
+- https://github.com/wshobson/agents
+- https://github.com/vibeflowing-inc/vibe_figma
+- https://github.com/tuannvm/mcp-trino
+- https://github.com/tuannvm/gemini-mcp-server
+- https://github.com/mosif16/codex-Skills
+- https://github.com/athola/skrills
 
 ## HuggingFace (28)
 
@@ -108,7 +90,6 @@ Unprocessed links from the original linkdump. Remove as processed.
 - https://cht.sh/
 - https://ckrybus.com/static/papers/Bainbridge
 - https://claude-plugins.dev/skills
-- https://claudeisland.com/
 - https://claudekit.github.io/frontend-design-pro-demo/
 - https://codeweb.chat/api-tools/intelligent-update/
 - https://codewiki.google/
