@@ -1,0 +1,25 @@
+# prompt-engineering
+
+*21 notes*
+
+- [[notes/articles/a-short-lesson-in-simpler-prompts|A Short Lesson in Simpler Prompts]]
+- [[notes/github/advanced-context-engineering-for-coding-agents|Advanced Context Engineering for Coding Agents]]
+- [[notes/github/Agent-Skills-for-Context-Engineering|Agent Skills for Context Engineering]]
+- [[notes/github/baml|BAML - Basically a Made-up Language]]
+- [[notes/github/claude-code-prompt-improver|Claude Code Prompt Improver]]
+- [[notes/github/Context-Engineering|Context Engineering]]
+- [[notes/articles/context-engineering-for-ai-agents|Context Engineering for AI Agents: Lessons from Building Manus]]
+- [[notes/github/dspy-go|DSPy-Go - DSPy Framework for Go]]
+- [[notes/articles/effective-context-engineering-for-ai-agents|Effective Context Engineering for AI Agents]]
+- [[notes/github/files-to-prompt|files-to-prompt]]
+- [[notes/articles/how-to-fix-your-context|How to Fix Your Context]]
+- [[notes/articles/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories|How to Write a Great agents.md: Lessons from Over 2,500 Repositories]]
+- [[notes/articles/llm-as-judge-best-practices|LLM-As-Judge: 7 Best Practices & Evaluation Templates]]
+- [[notes/articles/not-so-prompt-prompt-optimization-as-model-selection|Not so Prompt: Prompt Optimization as Model Selection]]
+- [[notes/github/promptflow|Prompt Flow: End-to-End LLM App Development]]
+- [[notes/github/promptbase|promptbase: All Things Prompt Engineering]]
+- [[notes/github/promptfoo|promptfoo — Test Prompts, Agents, and RAGs]]
+- [[notes/articles/react-prompting|ReAct Prompting]]
+- [[notes/articles/tau2-benchmark-improving-results-smaller-models|Tau² Benchmark: How a Prompt Rewrite Boosted GPT-5-mini by 22%]]
+- [[notes/articles/ai-unit-of-work|The Quality of AI-Assisted Software Depends on Unit of Work Management]]
+- [[notes/articles/where-good-ideas-come-from-for-coding-agents|Where Good Ideas Come From (for Coding Agents)]]

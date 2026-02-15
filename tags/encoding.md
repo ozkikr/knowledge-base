@@ -1,0 +1,5 @@
+# encoding
+
+*1 notes*
+
+- [[notes/articles/go-json-v2|JSON Evolution in Go: From v1 to v2]]

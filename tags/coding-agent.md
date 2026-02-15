@@ -1,0 +1,26 @@
+# coding-agent
+
+*22 notes*
+
+- [[notes/github/amplifier|Amplifier (Microsoft)]]
+- [[notes/github/async-server|Async Server]]
+- [[notes/github/codalotl|codalotl]]
+- [[notes/github/codex|codex]]
+- [[notes/github/dexto|Dexto]]
+- [[notes/github/holon|Holon]]
+- [[notes/github/how-to-build-a-coding-agent|How to Build a Coding Agent]]
+- [[notes/github/kimi-cli|Kimi Code CLI]]
+- [[notes/articles/letta-code-memory-first-coding-agent|Letta Code: A Memory-First Coding Agent]]
+- [[notes/github/mistral-vibe|Mistral Vibe]]
+- [[notes/github/nanocoder|Nanocoder - Local-First CLI Coding Agent]]
+- [[notes/github/nori-cli|Nori CLI]]
+- [[notes/github/omnara|Omnara]]
+- [[notes/github/Claude-Cowork|Open Claude Cowork (Agent Cowork)]]
+- [[notes/github/open-swe|Open SWE]]
+- [[notes/github/opencode|OpenCode]]
+- [[notes/github/quibbler|Quibbler]]
+- [[notes/github/qwen-code|Qwen Code]]
+- [[notes/github/RA.Aid|RA.Aid]]
+- [[notes/github/stagewise|stagewise]]
+- [[notes/github/toad|Toad]]
+- [[notes/github/wcgw|wcgw — Shell and Coding Agent for MCP Clients]]

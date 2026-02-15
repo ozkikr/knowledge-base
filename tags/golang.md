@@ -1,0 +1,24 @@
+# golang
+
+*20 notes*
+
+- [[notes/github/clai|clai - Command Line Artificial Intelligence]]
+- [[notes/github/codecontext|CodeContext]]
+- [[notes/github/eino|Eino]]
+- [[notes/articles/embedding-dolt-in-your-golang-application|Embedding Dolt in your Golang Application]]
+- [[notes/github/enhanced-dca-bot|Enhanced DCA Bot]]
+- [[notes/github/ergo|Ergo Framework]]
+- [[notes/github/genai-toolbox|GenAI Toolbox (MCP Toolbox for Databases)]]
+- [[notes/github/go-astiav|go-astiav]]
+- [[notes/github/go-readability|go-readability]]
+- [[notes/github/go-test-coverage|go-test-coverage]]
+- [[notes/articles/golang-optimizations-for-high-volume-services|Golang Optimizations for High-Volume Services]]
+- [[notes/github/golang-monorepo|golang-monorepo]]
+- [[notes/github/goscript|goscript]]
+- [[notes/github/guts|Guts (Go Unto TypeScript)]]
+- [[notes/github/go-plugin|hashicorp/go-plugin]]
+- [[notes/github/html-to-markdown|html-to-markdown]]
+- [[notes/github/mcphost|MCPHost]]
+- [[notes/github/options-gen|options-gen - Codegen for Functional Options in Go]]
+- [[notes/github/sqlite|riyaz-ali/sqlite]]
+- [[notes/articles/running-go-tools-in-browser|Running Go Tools in a Browser]]

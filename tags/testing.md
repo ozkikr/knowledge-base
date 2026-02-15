@@ -1,0 +1,27 @@
+# testing
+
+*23 notes*
+
+- [[notes/github/better-agents|Better Agents - Standards for building agents, better]]
+- [[notes/github/coverage-badge-go|coverage-badge-go]]
+- [[notes/github/covpeek|covpeek - Cross-language Coverage Report CLI Parser]]
+- [[notes/github/deepeval|DeepEval]]
+- [[notes/articles/demystifying-evals-for-ai-agents|Demystifying Evals for AI Agents]]
+- [[notes/github/faker|Faker (Ruby)]]
+- [[notes/github/gambit|Gambit]]
+- [[notes/github/go-test-coverage|go-test-coverage]]
+- [[notes/github/mock|gomock (uber-go/mock) - Mocking Framework for Go]]
+- [[notes/github/gotests|gotests]]
+- [[notes/github/gotip|gotip - Go Test Interactive Picker]]
+- [[notes/articles/integration-testing-go-testcontainers-cosmosdb|Integration Testing for Go Applications Using Testcontainers and Containerized Databases]]
+- [[notes/github/martian|Martian Proxy - Programmable HTTP Proxy for Testing]]
+- [[notes/github/prism|Prism]]
+- [[notes/github/rhesis|Rhesis - Collaborative Testing for LLM & Agentic Apps]]
+- [[notes/github/rwx|rwx (ralph, wiggum, execute)]]
+- [[notes/github/seed|Seed (by Snaplet/Supabase)]]
+- [[notes/articles/tdd-shameless-green|Shameless Green: Pragmatic TDD in Go]]
+- [[notes/articles/similarity-scores-are-not-enough-for-matching|Similarity Scores Are Not Enough For Matching]]
+- [[notes/articles/stop-vibe-coding-your-unit-tests|Stop Vibe Coding Your Unit Tests]]
+- [[notes/github/tdd-guard|TDD Guard]]
+- [[notes/github/testvet|testvet - Go Static Analysis for Missing Test Coverage]]
+- [[notes/articles/10x-commandments-of-highly-effective-go|The "10x" Commandments of Highly Effective Go]]

@@ -1,0 +1,26 @@
+# embeddings
+
+*22 notes*
+
+- [[notes/github/ArcticInference|ArcticInference — vLLM Plugin for High-Throughput LLM Inference]]
+- [[notes/github/avocadodb|AvocadoDB - Deterministic Context Database for AI Agents]]
+- [[notes/github/chonkie|Chonkie]]
+- [[notes/articles/contextual-retrieval|Contextual Retrieval in AI Systems]]
+- [[notes/github/embedding-atlas|Embedding Atlas]]
+- [[notes/github/FlagEmbedding|FlagEmbedding (BGE) - Retrieval Toolkit for Search and RAG]]
+- [[notes/github/gorag|GoRag - Go Library for RAG Development]]
+- [[notes/articles/how-llm-inference-works|How LLM Inference Works]]
+- [[notes/github/infinity|Infinity]]
+- [[notes/github/search|kelindar/search]]
+- [[notes/articles/late-chunking-in-long-context-embedding-models|Late Chunking in Long-Context Embedding Models]]
+- [[notes/github/memex|memex]]
+- [[notes/github/milvus|Milvus]]
+- [[notes/articles/nemotron-colembed-v2-raising-the-bar-for-multimodal-retrieval-with-vidore-v3s-top-model|Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model]]
+- [[notes/articles/optimizing-vector-search-why-you-should-flatten-structured-data|Optimizing Vector Search: Why You Should Flatten Structured Data]]
+- [[notes/github/pgvector|pgvector - Vector Similarity Search for Postgres]]
+- [[notes/github/pgvectorscale|pgvectorscale]]
+- [[notes/github/Project_Golem|Project Golem]]
+- [[notes/github/rag-from-scratch|RAG from Scratch]]
+- [[notes/github/ragmate|RAGmate]]
+- [[notes/github/sgrep|sgrep]]
+- [[notes/github/sqlite-vector|SQLite Vector]]

@@ -1,0 +1,5 @@
+# internal-tools
+
+*1 notes*
+
+- [[notes/github/golink|golink]]

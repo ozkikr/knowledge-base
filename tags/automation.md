@@ -1,0 +1,27 @@
+# automation
+
+*23 notes*
+
+- [[notes/github/agent-slack|agent-slack]]
+- [[notes/github/agentapi|AgentAPI]]
+- [[notes/articles/feedback-loops-background-coding-agents-part-3|Background Coding Agents: Predictable Results Through Strong Feedback Loops (Part 3)]]
+- [[notes/github/binsmith|Binsmith]]
+- [[notes/github/bytebot|Bytebot]]
+- [[notes/github/certmate|CertMate - SSL Certificate Management System]]
+- [[notes/github/claude-loop|Claude Loop]]
+- [[notes/github/continuous-claude|Continuous Claude]]
+- [[notes/github/crewai-gmail-automation|CrewAI Gmail Automation]]
+- [[notes/github/codex-container|Gnosis Container (codex-container)]]
+- [[notes/github/interminai|interminai - Interactive Terminal for AI]]
+- [[notes/github/libtmux|libtmux]]
+- [[notes/github/mcp-google-sheets|mcp-google-sheets]]
+- [[notes/github/muscle-mem|Muscle Memory]]
+- [[notes/github/opperator|Opperator - Framework for Building Local AI Agents]]
+- [[notes/github/os-ai-computer-use|OS AI Computer Use]]
+- [[notes/github/rwx|rwx (ralph, wiggum, execute)]]
+- [[notes/github/shot-scraper|shot-scraper]]
+- [[notes/articles/sourcebot-agents-overview|Sourcebot Agents Overview]]
+- [[notes/github/SwiftBar|SwiftBar]]
+- [[notes/github/terminal-ai|terminal-ai]]
+- [[notes/articles/using-linters-to-direct-agents|Using Linters to Direct Agents]]
+- [[notes/github/xdotool|xdotool - X11 Automation Tool]]
